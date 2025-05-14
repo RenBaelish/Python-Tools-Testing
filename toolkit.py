@@ -33,8 +33,8 @@ def clear():
 # ─────────────────────────────────────────────
 
 def identitas_dev():
-    banner("RENNBAELISH")
-    print(colored("Author  : RennBaelish", 'cyan'))
+    banner("ANONNYMOUS")
+    print(colored("Author  : Mr Robot", 'cyan'))
     print(colored("Versi   : 1.0", 'cyan'))
     print(colored("GitHub  : https://github.com/RenBaelish", 'cyan'))
     print(colored("Status  : Edukasi & Aman ✅", 'green'))
